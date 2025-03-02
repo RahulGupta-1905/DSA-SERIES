@@ -30,3 +30,11 @@ class Solution {
         
     }
 };
+
+T.C(N)
+S.C(1)
+Approach
+If the character is a vowel Increment vowel_count, reset conso_count .If it is a consonant ,
+Increment conso_count, reset vowel_count. if it is a wildcard  Increment both vowel_count and 
+conso_count.
+If any one of vowel_count>5 or conso_count>3 return 0 else return 1
