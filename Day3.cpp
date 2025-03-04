@@ -56,7 +56,7 @@ public:
         return count;
     }
 };
-T.C(nlon)
+T.C(nlogn)
 S.C(1)
 approach:Rearrange each domino pair by sorting its two values, then sort the entire list. Iterate through the sorted list, counting
 consecutive duplicate pairs to compute the total number of equivalent domino pairs
