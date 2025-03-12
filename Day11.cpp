@@ -87,5 +87,5 @@ public:
     }
 };
 // T.C(m*n)
-//S.C(1)
+//S.C(m*n)
 // Approach:Use 4 pointers (minr, maxr, minc, maxc) to keep track of current boundaries.Traverse the matrix layer by layer.
