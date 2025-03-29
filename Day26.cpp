@@ -22,7 +22,8 @@ class Solution {
         return head;
     }
 };
-
+// T.C(N)
+// S.C(1)
 // Question 2 Search in Linked List
 //https://bit.ly/3Epriup
 class Solution {
